@@ -1,0 +1,18 @@
+.header {
+    text-align: center;
+    background-color: rgb(228, 247, 186);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.link {
+    text-decoration: none;
+    cursor: pointer;
+    color: rgb(29, 27, 27);
+    font-size: 30px;
+    margin-right: 25px;
+}
+
+.container {
+    padding: 25px;
+}

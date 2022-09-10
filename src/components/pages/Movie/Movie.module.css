@@ -1,0 +1,14 @@
+.formn {
+    text-align: center;
+}
+
+.input {
+    width: 250px;
+    margin-right: 5px;
+
+    font-size: 16px;
+}
+
+.button {
+    font-size: 16px;
+}

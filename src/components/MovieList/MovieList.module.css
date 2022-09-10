@@ -1,0 +1,12 @@
+.list {
+    list-style: none;
+    padding: 0;
+    color: red;
+}
+
+.item {
+    cursor: pointer;
+    list-style: none;
+    font-size: 17px;
+    margin-bottom: 5px;
+}
